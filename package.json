@@ -1,0 +1,16 @@
+{
+  "name": "ynab-budget-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "list-selector-cli": "0.0.3",
+    "node-fetch": "^2.1.2"
+  }
+}
